@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875959382932",
+    "project_id": "pactra-57387",
+    "storage_bucket": "pactra-57387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875959382932:android:268d128df9ce88d6ea1581",
+        "android_client_info": {
+          "package_name": "com.pactra.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFxSBLW7QjB0ocu-7fxRnYuW-vRomyqEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
